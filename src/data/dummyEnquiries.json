@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "company": "ABC Manufacturing Pvt. Ltd.",
+    "email": "rahul@company.com",
+    "phone": "+91 98XXXXXXXX",
+    "projectType": "Production Traceability",
+    "location": "Industrial Plant",
+    "budget": "Need technical estimation",
+    "message": "Barcode + PLC + SQL + dashboard traceability for multiple production stations.",
+    "preferred": "Email"
+  },
+  {
+    "name": "Priya Mehta",
+    "company": "Demo Industries",
+    "email": "priya@example.com",
+    "phone": "+91 97XXXXXXXX",
+    "projectType": "OEE / Breakdown",
+    "location": "Manufacturing Plant",
+    "budget": "₹5–15 Lakh",
+    "message": "Need real-time machine status, target vs actual, downtime reasons and management reports.",
+    "preferred": "Phone"
+  }
+]
